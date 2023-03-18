@@ -2013,16 +2013,18 @@ input, select, textarea {
 	}
 
 		.wrapper.style1 {
-			background-image: none;
+			background-image: linear-gradient(to bottom, #DADDD8, #ECEBE4);
 			background-color: #DADDD8;
 		}
 
 		.wrapper.style2 {
-			background-color: #FAFAFF;
+			background-image: none;
+			background-color: #FEFDFF;
 			text-shadow: 1px 1px 0px #fff;
 		}
 
 		.wrapper.style3 {
+			background-image: none;
 			background-color: #ECEBE4;
 			text-shadow: 1px 1px 0px #fff;
 		}
