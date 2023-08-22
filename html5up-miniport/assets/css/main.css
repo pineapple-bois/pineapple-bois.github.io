@@ -1765,6 +1765,22 @@ input, select, textarea {
 			padding-left: 0.25em;
 		}
 
+/* Custom Styles for Project Descriptions */
+
+	.detail-header {
+    font-weight: bold;
+    display: block;
+    margin-top: 10px;
+}
+
+	.project-bullet-points {
+    font-size: 0.8em !important;
+    text-align: left !important;
+    padding-left: 10% !important;
+    list-style-position: inside !important;
+}
+
+
 /* Social */
 
 	ul.social {
